@@ -1,2 +1,5 @@
 Pillow
 scipy
+tensorflow
+tensorflow_datasets
+tensorflow-addons
